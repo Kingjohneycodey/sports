@@ -1,1 +1,1 @@
-# Threndin Recruitment Management System
+# Demo Project
